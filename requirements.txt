@@ -2,7 +2,7 @@ aiohttp
 aiosignal
 async-timeout
 attrs
-beautifulsoup
+beautifulsoup4
 certifi
 charset-normalizer
 colorama
@@ -11,7 +11,7 @@ frozenlist
 idna
 imageio
 imageio-ffmpeg
-linkGrabbe
+linkGrabber
 lxml
 moviepy
 multidict
