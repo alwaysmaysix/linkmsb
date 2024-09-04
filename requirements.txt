@@ -15,7 +15,7 @@ linkGrabber
 lxml
 moviepy
 multidict
-nump
+numpy
 Pillow
 proglog
 pyaes
@@ -28,6 +28,6 @@ soupsieve
 speedtest
 TgCrypto
 tqdm
-urllib
+urllib3
 yarl
 nest_asyncio
